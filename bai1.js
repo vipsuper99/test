@@ -3,3 +3,4 @@ function hack(argument) {
 	var ga; //ga
 	var a = con + ga;
 }sd
+adnnád
