@@ -1,5 +1,3 @@
 function name() {
 	// body...
 }
-
-modu
